@@ -2,7 +2,7 @@
 
 My name is Hami, fresh out of Aotearoa's cooking pot for aspiring Devs, "Dev Academy".
 
-I have a desire to build things that add value to the world, which can be seen in my works found on my profile, such as:
+I have a desire to build things that add value to the world, which can be seen by the work found on my profile, such as:
 
 **Coordinary**
 
