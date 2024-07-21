@@ -24,4 +24,4 @@ A platform seeking to put fun back into professionalism.
 
 **New tech introduced**: MongoDB to create a hybrid database common in social media.
 
-Interested in learning more about me? Checkout my resume [here](./Hami%20Keelan-3.pdf)
+Interested in learning more about me? Checkout my resume [here](https://drive.google.com/file/d/1NnocHAPmdXc03Yz4h9YdpdYKuVSjcqXx/view?usp=share_link)
