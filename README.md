@@ -10,6 +10,13 @@ A gift registry for charities.
 
 New tech introduced: Tailwind, React, TypeScript, SQLite, and Express to create custom hooks, complex forms, APIs, CRUD functions, user experiences, and more.
 
+**Lingobo**
+
+A language sharing community
+
+First personal project: included an attempt at making my own auth before I had learned about auth providers. 
+
+
 **Yumplug** (in progress)
 
 An app aiming to create vibrant urban areas.
